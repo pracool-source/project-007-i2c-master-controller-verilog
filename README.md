@@ -1,4 +1,4 @@
-# Project 007: I²C Master Controller using Verilog HDL
+# Project 006: I²C Master Controller using Verilog HDL
 
 ## Overview
 
